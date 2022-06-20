@@ -1,5 +1,5 @@
 # travelweb
-项目录屏链接：
+项目录屏链接：https://www.bilibili.com/video/BV1T34y1W7A3?spm_id_from=333.999.list.card_archive.click&vd_source=c5ccecb7f36f4a0d87aca17bd12284d7
 
 5.2效果页面展示
 
