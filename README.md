@@ -32,7 +32,7 @@
 
 ## 推荐算法及结果
 Kmeans聚类结果
-把用户分为四类，分别对应不同的特征
+把用户分为四类，分别对应不同的特征<br>
 ![图片](https://user-images.githubusercontent.com/89886362/174523844-b4608577-15b1-45cd-91f9-47a42c5bf020.png)
 
 
